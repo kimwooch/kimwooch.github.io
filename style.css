@@ -152,6 +152,8 @@ p {
   height: 275px;
   border-radius: 50%;
   border: 2px solid var(--color-black);
+  object-fit: cover;
+  justify-content: center;
 }
 
 .home__title,
